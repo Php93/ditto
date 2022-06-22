@@ -1,5 +1,5 @@
 # Ditto - dating app
-
+React Native app using Expo. Also Tailwind css(twrnc) and Firebase.
 ## Installation
 ```bash
 yarn install
