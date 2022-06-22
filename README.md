@@ -8,7 +8,7 @@ yarn install
 #### Screenshots
 <table>
   <tr>
-    <td><img src="screenshots/1.jpg" width=480 height=480></td>
+    <td><img src="screenshots/1.jpg" width=550 height=480></td>
     <td><img src="screenshots/2.jpg" width=480 height=480></td>
     <td><img src="screenshots/3.jpg" width=480 height=480></td>
     <td><img src="screenshots/4.jpg" width=480 height=480></td>
